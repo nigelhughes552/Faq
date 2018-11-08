@@ -8,7 +8,6 @@
 
 <script>
 import Categories from "./components/FAQCategories";
-//import Posts from "./components/Posts";
 
 export default {
   name: "App",
