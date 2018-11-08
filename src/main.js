@@ -1,5 +1,11 @@
 import Vue from "vue";
+import "./plugins/vuetify";
 import App from "./App.vue";
+//import axios from 'axios'
+
+import Vuetify from "vuetify";
+
+Vue.use(Vuetify);
 
 Vue.config.productionTip = false;
 
